@@ -18,3 +18,4 @@ An academic group website theme for Hugo.
 - [ ] Change the `themes/hugo-academic-group/static/css/hugo-academic-group.css` header image
 - [ ] Add other group members
 - [ ] Change the project pictures and descriptions.
+ 
